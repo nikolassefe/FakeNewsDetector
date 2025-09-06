@@ -1,0 +1,12 @@
+#Virtual environment
+venv/
+
+#Large files
+src/model.pkl
+src/vectorizer.pkl
+
+#Build folders
+src/build/
+
+#System files
+.DS_Store
