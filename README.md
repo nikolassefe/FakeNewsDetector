@@ -18,7 +18,7 @@ and TF-IDF vectorization, combined with a Random Forest classifier.
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/nikolassefe/FakeNewsDetector>
 cd FakeNewsDetector
 ```
 
